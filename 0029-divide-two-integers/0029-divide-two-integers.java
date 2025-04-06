@@ -7,6 +7,7 @@ class Solution {
         int res=div/divis;
         return res;
         
+        
     }
 }
     
